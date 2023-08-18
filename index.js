@@ -1,2 +1,1 @@
-console.log("haha");
-console.log("conflit");
+const bc = 1
